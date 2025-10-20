@@ -1,4 +1,4 @@
-📜 Descrição
+📜 Descrição:
 Este projeto é um site informativo para a "Exposição da História do Futebol Feminino". O objetivo é criar uma página web simples e elegante para divulgar o evento, apresentando aos visitantes a programação, informações importantes e um resumo sobre o que será abordado na mostra.
 
 🚧 Status do Projeto
